@@ -1,9 +1,9 @@
 [
   [
     {
-      "title" : "Cell voltage is too high",
-      "message" : "TBC",
-      "severity" : 1
+      "title" : "Low Battery Warning",
+      "message" : "The battery level on the Ampd Silo is below 10%.",
+      "severity" : 3
     },
     null,
     null,
@@ -12,14 +12,14 @@
     null,
     null,
     {
-      "title" : "Cell voltage is too high",
+      "title" : "BMS Communication Error",
       "message" : "TBC",
-      "severity" : 1
+      "severity" : 2
     },
     {
-      "title" : "Cell voltage is too high",
+      "title" : "PCS Communication Error",
       "message" : "TBC",
-      "severity" : 1
+      "severity" : 2
     },
     null,
     null,
